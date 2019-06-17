@@ -1,2 +1,2 @@
 # mini-wechat
-wechat miniprogram
+微信小程序DOME
